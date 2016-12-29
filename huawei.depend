@@ -1,0 +1,255 @@
+# depslib dependency file v1.0
+1458617051 source:/home/mirraico/Code/huawei/future_net.cpp
+	"route.h"
+	"lib/lib_io.h"
+	"lib/lib_time.h"
+	"stdio.h"
+
+1457273101 /home/mirraico/Code/huawei/route.h
+
+1457322533 /home/mirraico/Code/huawei/lib/lib_io.h
+
+1457273188 /home/mirraico/Code/huawei/lib/lib_time.h
+
+1457338189 source:/home/mirraico/Code/huawei/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1458740245 source:/home/mirraico/Code/huawei/route.cpp
+	"route.h"
+	"lib/lib_record.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<vector>
+	<map>
+	<queue>
+
+1457273231 /home/mirraico/Code/huawei/lib/lib_record.h
+
+1458617051 source:/home/mirraico/Code/huaweiv2/future_net.cpp
+	"route.h"
+	"lib/lib_io.h"
+	"lib/lib_time.h"
+	"stdio.h"
+
+1457273101 /home/mirraico/Code/huaweiv2/route.h
+
+1457322533 /home/mirraico/Code/huaweiv2/lib/lib_io.h
+
+1457273188 /home/mirraico/Code/huaweiv2/lib/lib_time.h
+
+1457338189 source:/home/mirraico/Code/huaweiv2/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1458740663 source:/home/mirraico/Code/huaweiv2/route.cpp
+	"route.h"
+	"lib/lib_record.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<vector>
+	<map>
+	<queue>
+
+1457273231 /home/mirraico/Code/huaweiv2/lib/lib_record.h
+
+1458617051 source:/home/mirraico/Code/huawei2/future_net.cpp
+	"route.h"
+	"lib/lib_io.h"
+	"lib/lib_time.h"
+	"stdio.h"
+
+1457273101 /home/mirraico/Code/huawei2/route.h
+
+1457322533 /home/mirraico/Code/huawei2/lib/lib_io.h
+
+1457273188 /home/mirraico/Code/huawei2/lib/lib_time.h
+
+1457338189 source:/home/mirraico/Code/huawei2/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1458741778 source:/home/mirraico/Code/huawei2/route.cpp
+	"route.h"
+	"lib/lib_record.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<vector>
+	<map>
+	<queue>
+
+1457273231 /home/mirraico/Code/huawei2/lib/lib_record.h
+
+1458617051 source:/home/mirraico/Code/huawei3/future_net.cpp
+	"route.h"
+	"lib/lib_io.h"
+	"lib/lib_time.h"
+	"stdio.h"
+
+1457273101 /home/mirraico/Code/huawei3/route.h
+
+1457322533 /home/mirraico/Code/huawei3/lib/lib_io.h
+
+1457273188 /home/mirraico/Code/huawei3/lib/lib_time.h
+
+1457338189 source:/home/mirraico/Code/huawei3/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1458877270 source:/home/mirraico/Code/huawei3/route.cpp
+	"route.h"
+	"lib/lib_record.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<vector>
+	<map>
+	<queue>
+	<algorithm>
+
+1457273231 /home/mirraico/Code/huawei3/lib/lib_record.h
+
+1458617051 source:/home/mirraico/Code/huawei4/future_net.cpp
+	"route.h"
+	"lib/lib_io.h"
+	"lib/lib_time.h"
+	"stdio.h"
+
+1457273101 /home/mirraico/Code/huawei4/route.h
+
+1457322533 /home/mirraico/Code/huawei4/lib/lib_io.h
+
+1457273188 /home/mirraico/Code/huawei4/lib/lib_time.h
+
+1457338189 source:/home/mirraico/Code/huawei4/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1458965566 source:/home/mirraico/Code/huawei4/route.cpp
+	"route.h"
+	"lib/lib_record.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<vector>
+	<map>
+	<queue>
+	<algorithm>
+
+1457273231 /home/mirraico/Code/huawei4/lib/lib_record.h
+
+1458996894 source:/home/mirraico/Code/huawei6/future_net.cpp
+	"route.h"
+	"lib/lib_io.h"
+	"lib/lib_time.h"
+	"stdio.h"
+
+1458997036 /home/mirraico/Code/huawei6/route.h
+
+1457322534 /home/mirraico/Code/huawei6/lib/lib_io.h
+
+1457273188 /home/mirraico/Code/huawei6/lib/lib_time.h
+
+1458996196 source:/home/mirraico/Code/huawei6/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1459523407 source:/home/mirraico/Code/huawei6/route.cpp
+	"route.h"
+	"lib/lib_io.h"
+	"lib/lib_record.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<vector>
+	<map>
+	<queue>
+	<algorithm>
+
+1458995780 /home/mirraico/Code/huawei6/lib/lib_record.h
+
+1462865126 source:/home/mirraico/Code/huaweifusai/future_net.cpp
+	"route.h"
+	"lib/lib_io.h"
+	"lib/lib_time.h"
+	"stdio.h"
+
+1462865119 /home/mirraico/Code/huaweifusai/route.h
+	"lib/lib_io.h"
+
+1460106560 /home/mirraico/Code/huaweifusai/lib/lib_io.h
+
+1457273188 /home/mirraico/Code/huaweifusai/lib/lib_time.h
+
+1462865131 source:/home/mirraico/Code/huaweifusai/io.cpp
+	"lib/lib_record.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1462897732 source:/home/mirraico/Code/huaweifusai/route.cpp
+	"route.h"
+	"lib/lib_io.h"
+	"lib/lib_record.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<vector>
+	<map>
+	<queue>
+	<algorithm>
+	<unistd.h>
+
+1460106880 /home/mirraico/Code/huaweifusai/lib/lib_record.h
+

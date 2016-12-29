@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="huawei" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/huawei" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option parameters="/home/mirraico/Code/huaweifusai/bin/Debug/topo.csv /home/mirraico/Code/huaweifusai/bin/Debug/demand.csv /home/mirraico/Code/huaweifusai/bin/Debug/result" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/huawei" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option parameters="/home/mirraico/Code/huawei6/bin/Debug/topo.csv /home/mirraico/Code/huawei6/bin/Debug/demand.csv /home/mirraico/Code/huawei6/bin/Debug/result" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="future_net.cpp" />
+		<Unit filename="io.cpp" />
+		<Unit filename="lib/lib_io.h" />
+		<Unit filename="lib/lib_record.h" />
+		<Unit filename="lib/lib_time.h" />
+		<Unit filename="route.cpp" />
+		<Unit filename="route.h" />
+		<Extensions>
+			<envvars />
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
